@@ -8,6 +8,10 @@ env/
 .env
 
 
+# Azure / Local Config
+senders.json
+emails.json
+
 # IDEs
 .vscode/
 .idea/
